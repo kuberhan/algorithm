@@ -1,4 +1,4 @@
-package com.kuber.algorithmtest.skiplist;
+package com.kuber.common.skiplist;
 
 public class SkipListNode <T>{
     private int key;

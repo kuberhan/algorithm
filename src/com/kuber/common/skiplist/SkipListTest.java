@@ -1,4 +1,4 @@
-package com.kuber.algorithmtest.skiplist;
+package com.kuber.common.skiplist;
 
 import org.junit.Test;
 

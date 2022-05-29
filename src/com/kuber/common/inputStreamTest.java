@@ -1,4 +1,4 @@
-package com.kuber.algorithmtest;
+package com.kuber.common;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -1,4 +1,4 @@
-package com.kuber.algorithmtest;
+package com.kuber.common;
 
 public class KnapSack01 {
     /**

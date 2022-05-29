@@ -1,4 +1,4 @@
-package com.kuber.algorithmtest;
+package com.kuber.common;
 
 import java.util.Scanner;
 
