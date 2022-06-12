@@ -1,4 +1,4 @@
-package com.kuber.common.sort;
+package com.kuber.common.quick;
 
 import java.io.*;
 import java.io.IOException;
